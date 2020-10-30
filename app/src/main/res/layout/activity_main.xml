@@ -16,7 +16,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="HAPPY BIRTHDAY"
-        android:textSize="49sp"
+        android:textSize="51sp"
         android:layout_centerHorizontal="true"
         android:id="@+id/h"
         />
